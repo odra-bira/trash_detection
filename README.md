@@ -18,7 +18,7 @@ The original course-project experiment used a cleaned YOLO-format TACO dataset e
 
 | Metric | Value |
 | --- | ---: |
-| Precision | 0.48 |
+| Precision | 0.78 |
 | Recall | 0.17 |
 | mAP@50 | 0.14 |
 | mAP@50–95 | 0.11 |
