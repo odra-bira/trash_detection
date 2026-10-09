@@ -93,4 +93,4 @@ Improve small-object recall, compare alternative YOLO model sizes, calibrate sco
 - [Ultralytics YOLOv8 documentation](https://docs.ultralytics.com/)
 - [TACO: Trash Annotations in Context](http://tacodataset.org/)
 
-**Implementation: Odra Bira.** This public repository contains a clean, newly organized implementation of the project's detection, scoring and visualization workflow; original training weights and notebook were not available for inclusion.
+**Implementation: Odra Bira.** 
